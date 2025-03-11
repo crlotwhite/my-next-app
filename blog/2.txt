@@ -1,0 +1,72 @@
+1:"$Sreact.fragment"
+2:I[6874,["874","static/chunks/874-db6e9370384cd204.js","63","static/chunks/63-5a018c5cd349b473.js","567","static/chunks/app/blog/%5Bid%5D/page-1f3ccb81220026c0.js"],""]
+3:I[7555,[],""]
+4:I[1295,[],""]
+5:I[3063,["874","static/chunks/874-db6e9370384cd204.js","63","static/chunks/63-5a018c5cd349b473.js","567","static/chunks/app/blog/%5Bid%5D/page-1f3ccb81220026c0.js"],"Image"]
+7:I[9665,[],"OutletBoundary"]
+a:I[9665,[],"ViewportBoundary"]
+c:I[9665,[],"MetadataBoundary"]
+e:I[6614,[],""]
+:HL["/my-next-app/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/my-next-app/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/my-next-app/_next/static/css/17671dde4152fd23.css","style"]
+6:Tdca,
+<h1 class="text-3xl font-bold mt-8 mb-4">효율적인 시간 관리 기법 5가지</h1>
+
+<p class="mb-4">현대 사회에서 시간은 가장 귀중한 자원 중 하나입니다. 효율적인 시간 관리는 업무 생산성 향상뿐만 아니라 삶의 질을 높이는 데도 중요합니다. 이 글에서는 누구나 실천할 수 있는 시간 관리 기법 5가지를 소개합니다.</p>
+
+<h2 class="text-2xl font-bold mt-6 mb-3">1. 포모도로 기법</h2>
+
+<p class="mb-4">25분 집중 작업 후 5분 휴식을 취하는 사이클을 반복하는 방법입니다.</p>
+
+<p class="mb-4"><strong>실천 방법:</strong></p>
+<p class="mb-4">- 타이머를 25분으로 설정합니다.</p>
+<p class="mb-4">- 타이머가 울릴 때까지 한 가지 작업에만 집중합니다.</p>
+<p class="mb-4">- 타이머가 울리면 5분간 휴식을 취합니다.</p>
+<p class="mb-4">- 4번의 사이클 후에는 15-30분의 긴 휴식을 취합니다.</p>
+
+<h2 class="text-2xl font-bold mt-6 mb-3">2. 아이젠하워 매트릭스</h2>
+
+<p class="mb-4">작업을 중요도와 긴급성에 따라 4개의 카테고리로 분류하는 방법입니다.</p>
+
+<p class="mb-4"><strong>분류 방법:</strong></p>
+<p class="mb-4">- 중요하고 긴급한 일: 즉시 처리</p>
+<p class="mb-4">- 중요하지만 긴급하지 않은 일: 계획 수립 후 처리</p>
+<p class="mb-4">- 중요하지 않지만 긴급한 일: 위임 고려</p>
+<p class="mb-4">- 중요하지도 긴급하지도 않은 일: 제거 고려</p>
+
+<h2 class="text-2xl font-bold mt-6 mb-3">3. 시간 블록킹</h2>
+
+<p class="mb-4">하루 일정을 특정 활동에 대한 시간 블록으로 미리 계획하는 방법입니다.</p>
+
+<p class="mb-4"><strong>실천 방법:</strong></p>
+<p class="mb-4">- 캘린더를 사용하여 각 활동에 시간 블록을 할당합니다.</p>
+<p class="mb-4">- 작업 시간뿐만 아니라 휴식, 식사, 운동 등의 개인 활동도 포함합니다.</p>
+<p class="mb-4">- 예상치 못한 일을 위한 버퍼 시간을 포함시킵니다.</p>
+
+<h2 class="text-2xl font-bold mt-6 mb-3">4. 2분 규칙</h2>
+
+<p class="mb-4">2분 이내에 완료할 수 있는 작업은 즉시 처리하는 방법입니다.</p>
+
+<p class="mb-4"><strong>실천 방법:</strong></p>
+<p class="mb-4">- 새로운 작업을 받았을 때 2분 이내에 완료할 수 있는지 판단합니다.</p>
+<p class="mb-4">- 2분 이내라면 즉시 처리합니다.</p>
+<p class="mb-4">- 2분 이상 걸린다면 일정에 추가하거나 위임합니다.</p>
+
+<h2 class="text-2xl font-bold mt-6 mb-3">5. 주간 계획 및 일일 리뷰</h2>
+
+<p class="mb-4">주간 계획을 세우고 매일 진행 상황을 검토하는 방법입니다.</p>
+
+<p class="mb-4"><strong>실천 방법:</strong></p>
+<p class="mb-4">- 매주 일요일이나 월요일 아침에 주간 계획을 세웁니다.</p>
+<p class="mb-4">- 하루를 마치기 전 10분 동안 오늘의 성과와 내일의 계획을 검토합니다.</p>
+<p class="mb-4">- 정기적으로 계획을 조정하고 우선순위를 재설정합니다.</p>
+
+<h2 class="text-2xl font-bold mt-6 mb-3">결론</h2>
+
+<p class="mb-4">효율적인 시간 관리는 하루아침에 완성되지 않습니다. 자신에게 맞는 방법을 찾아 꾸준히 실천하는 것이 중요합니다. 위의 기법들을 적절히 조합하여 사용하면, 업무 생산성 향상과 함께 스트레스 감소, 일-생활 균형 개선 등의 효과를 얻을 수 있을 것입니다.</p>
+<p class="mb-4">    </p>0:{"P":null,"b":"Hu7WoV6n8vMNUe2tWIgV-","p":"/my-next-app","c":["","blog","2"],"i":false,"f":[[["",{"children":["blog",{"children":[["id","2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/my-next-app/_next/static/css/17671dde4152fd23.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"__variable_e71cf8 __variable_a8774f antialiased bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100","children":["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","nav",null,{"className":"bg-white dark:bg-gray-900 shadow-md","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4","children":["$","div",null,{"className":"flex justify-between h-16","children":[["$","div",null,{"className":"flex items-center","children":["$","$L2",null,{"href":"/","className":"flex-shrink-0 flex items-center","children":["$","span",null,{"className":"text-2xl font-bold text-indigo-600 dark:text-indigo-400","children":"MyBlog"}]}]}],["$","div",null,{"className":"flex items-center space-x-4","children":[["$","$L2",null,{"href":"/","className":"px-3 py-2 rounded-md text-sm font-medium text-gray-700 dark:text-gray-200 hover:text-indigo-600 dark:hover:text-indigo-400","children":"홈"}],["$","$L2",null,{"href":"/blog","className":"px-3 py-2 rounded-md text-sm font-medium text-gray-700 dark:text-gray-200 hover:text-indigo-600 dark:hover:text-indigo-400","children":"블로그"}],["$","$L2",null,{"href":"/about","className":"px-3 py-2 rounded-md text-sm font-medium text-gray-700 dark:text-gray-200 hover:text-indigo-600 dark:hover:text-indigo-400","children":"소개"}]]}]]}]}]}],["$","main",null,{"className":"flex-grow","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-[70vh] flex flex-col items-center justify-center p-8 text-center","children":[["$","h1",null,{"className":"text-5xl font-bold mb-6","children":"404"}],["$","h2",null,{"className":"text-2xl font-semibold mb-6","children":"페이지를 찾을 수 없습니다"}],["$","p",null,{"className":"text-lg text-gray-600 dark:text-gray-400 mb-8","children":"찾으시는 페이지가 존재하지 않거나 이동되었을 수 있습니다."}],["$","$L2",null,{"href":"/","className":"px-6 py-3 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-lg transition-colors","children":"홈으로 돌아가기"}]]}],"$undefined",[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-800","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","div",null,{"className":"flex flex-col md:flex-row justify-between items-center","children":[["$","div",null,{"className":"mb-4 md:mb-0","children":[["$","h2",null,{"className":"text-xl font-bold text-indigo-600 dark:text-indigo-400","children":"MyBlog"}],["$","p",null,{"className":"text-sm text-gray-600 dark:text-gray-400 mt-1","children":"나만의 생각과 경험을 공유하는 블로그"}]]}],["$","div",null,{"className":"flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-6","children":[["$","a",null,{"href":"#","className":"text-sm text-gray-600 dark:text-gray-400 hover:text-indigo-600 dark:hover:text-indigo-400","children":"블로그 정책"}],["$","a",null,{"href":"#","className":"text-sm text-gray-600 dark:text-gray-400 hover:text-indigo-600 dark:hover:text-indigo-400","children":"개인정보 처리방침"}],["$","a",null,{"href":"#","className":"text-sm text-gray-600 dark:text-gray-400 hover:text-indigo-600 dark:hover:text-indigo-400","children":"문의하기"}]]}]]}],["$","div",null,{"className":"mt-8 pt-6 border-t border-gray-200 dark:border-gray-800","children":["$","p",null,{"className":"text-center text-sm text-gray-600 dark:text-gray-400","children":["© ",2025," MyBlog. All rights reserved."]}]}]]}]}]]}]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","2","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-12","children":[["$","header",null,{"className":"mb-8","children":[["$","$L2",null,{"href":"/blog","className":"inline-flex items-center text-indigo-600 dark:text-indigo-400 mb-6 hover:underline","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","className":"h-5 w-5 mr-1","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 19l-7-7m0 0l7-7m-7 7h18"}]}],"블로그로 돌아가기"]}],["$","h1",null,{"className":"text-3xl sm:text-4xl md:text-5xl font-bold mb-6","children":"효율적인 시간 관리 기법 5가지"}],["$","div",null,{"className":"flex items-center mb-6","children":[["$","div",null,{"className":"w-12 h-12 relative rounded-full overflow-hidden mr-4","children":["$","$L5",null,{"src":"https://randomuser.me/api/portraits/women/44.jpg","alt":"이시간","fill":true,"style":{"objectFit":"cover"}}]}],["$","div",null,{"children":[["$","div",null,{"className":"font-semibold","children":"이시간"}],["$","div",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":["2023년 7월 22일"," ·",["$","$L2",null,{"href":"/blog?category=생산성","className":"ml-1 text-indigo-600 dark:text-indigo-400 hover:underline","children":"생산성"}]]}]]}]]}]]}],["$","div",null,{"className":"relative h-[300px] sm:h-[400px] md:h-[500px] w-full mb-10 rounded-lg overflow-hidden","children":["$","$L5",null,{"src":"https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80","alt":"효율적인 시간 관리 기법 5가지","fill":true,"style":{"objectFit":"cover"},"priority":true}]}],["$","div",null,{"className":"prose prose-lg dark:prose-invert max-w-none","dangerouslySetInnerHTML":{"__html":"$6"}}],["$","div",null,{"className":"mt-10 pt-6 border-t border-gray-200 dark:border-gray-800","children":[["$","h3",null,{"className":"text-lg font-semibold mb-3","children":"태그"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","시간관리",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-800 text-gray-800 dark:text-gray-200 rounded-full text-sm","children":"시간관리"}],["$","span","생산성",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-800 text-gray-800 dark:text-gray-200 rounded-full text-sm","children":"생산성"}],["$","span","포모도로",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-800 text-gray-800 dark:text-gray-200 rounded-full text-sm","children":"포모도로"}],["$","span","계획",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-800 text-gray-800 dark:text-gray-200 rounded-full text-sm","children":"계획"}]]}]]}],["$","div",null,{"className":"mt-10 pt-6 border-t border-gray-200 dark:border-gray-800","children":[["$","h3",null,{"className":"text-lg font-semibold mb-4","children":"작성자"}],["$","div",null,{"className":"flex items-center","children":[["$","div",null,{"className":"w-16 h-16 relative rounded-full overflow-hidden mr-6","children":["$","$L5",null,{"src":"https://randomuser.me/api/portraits/women/44.jpg","alt":"이시간","fill":true,"style":{"objectFit":"cover"}}]}],["$","div",null,{"children":[["$","div",null,{"className":"font-semibold text-lg","children":"이시간"}],["$","p",null,{"className":"text-gray-600 dark:text-gray-400","children":"생산성 코치, 시간 관리 전문가"}]]}]]}]]}]]}],"$undefined",null,["$","$L7",null,{"children":["$L8","$L9",null]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","56oc0nfXr7q0oPLi4KEeg",{"children":[["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],["$","$Lc",null,{"children":"$Ld"}]]}],false]],"m":"$undefined","G":["$e","$undefined"],"s":false,"S":true}
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+9:null
+d:[["$","title","0",{"children":"효율적인 시간 관리 기법 5가지 | My Blog"}],["$","meta","1",{"name":"description","content":"업무와 개인 생활의 균형을 유지하면서 생산성을 높일 수 있는 시간 관리 기법을 알아봅니다."}],["$","meta","2",{"property":"og:title","content":"효율적인 시간 관리 기법 5가지"}],["$","meta","3",{"property":"og:description","content":"업무와 개인 생활의 균형을 유지하면서 생산성을 높일 수 있는 시간 관리 기법을 알아봅니다."}],["$","meta","4",{"property":"og:image","content":"https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"효율적인 시간 관리 기법 5가지"}],["$","meta","7",{"name":"twitter:description","content":"업무와 개인 생활의 균형을 유지하면서 생산성을 높일 수 있는 시간 관리 기법을 알아봅니다."}],["$","meta","8",{"name":"twitter:image","content":"https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"}],["$","link","9",{"rel":"icon","href":"/my-next-app/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]

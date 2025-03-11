@@ -1,0 +1,102 @@
+1:"$Sreact.fragment"
+2:I[6874,["874","static/chunks/874-db6e9370384cd204.js","63","static/chunks/63-5a018c5cd349b473.js","567","static/chunks/app/blog/%5Bid%5D/page-1f3ccb81220026c0.js"],""]
+3:I[7555,[],""]
+4:I[1295,[],""]
+5:I[3063,["874","static/chunks/874-db6e9370384cd204.js","63","static/chunks/63-5a018c5cd349b473.js","567","static/chunks/app/blog/%5Bid%5D/page-1f3ccb81220026c0.js"],"Image"]
+7:I[9665,[],"OutletBoundary"]
+a:I[9665,[],"ViewportBoundary"]
+c:I[9665,[],"MetadataBoundary"]
+e:I[6614,[],""]
+:HL["/my-next-app/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/my-next-app/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/my-next-app/_next/static/css/17671dde4152fd23.css","style"]
+6:T1634,
+<h1 class="text-3xl font-bold mt-8 mb-4">디지털 노마드 생활: 원격 근무의 장단점</h1>
+
+<p class="mb-4">디지털 노마드 생활은 많은 사람들에게 꿈처럼 들립니다. 해변에서 노트북을 펼치고 일하는 사진들은 소셜 미디어에서 흔히 볼 수 있지만, 실제로 이러한 생활 방식은 어떤지, 그리고 원격 근무의 진짜 장단점은 무엇인지 살펴보겠습니다.</p>
+
+<h2 class="text-2xl font-bold mt-6 mb-3">디지털 노마드란?</h2>
+
+<p class="mb-4">디지털 노마드는 인터넷 연결만 있으면 어디서든 일할 수 있는 사람들을 의미합니다. 프리랜서, 원격 근무자, 온라인 사업가 등 다양한 직업군이 이에 해당할 수 있습니다.</p>
+
+<h2 class="text-2xl font-bold mt-6 mb-3">원격 근무의 장점</h2>
+
+<h3 class="text-xl font-bold mt-5 mb-2">1. 유연한 일정 관리</h3>
+<p class="mb-4">가장 큰 장점 중 하나는 자신의 시간을 자유롭게 관리할 수 있다는 점입니다.</p>
+
+<p class="mb-4">- 개인의 생산성이 가장 높은 시간대에 일할 수 있습니다.</p>
+<p class="mb-4">- 중요한 개인 일정을 업무와 조화롭게 조정할 수 있습니다.</p>
+<p class="mb-4">- 출퇴근 시간을 절약하여 다른 활동에 투자할 수 있습니다.</p>
+
+<h3 class="text-xl font-bold mt-5 mb-2">2. 위치의 자유</h3>
+<p class="mb-4">물리적 사무실에 묶이지 않는 자유는 큰 매력입니다.</p>
+
+<p class="mb-4">- 다양한 도시와 국가를 경험하며 일할 수 있습니다.</p>
+<p class="mb-4">- 개인이 선호하는 환경(카페, 공유 오피스, 집 등)에서 일할 수 있습니다.</p>
+<p class="mb-4">- 비용이 저렴한 지역에서 생활하며 재정적 여유를 누릴 수 있습니다.</p>
+
+<h3 class="text-xl font-bold mt-5 mb-2">3. 삶의 질 향상</h3>
+<p class="mb-4">많은 디지털 노마드들이 삶의 질 향상을 경험합니다.</p>
+
+<p class="mb-4">- 자연, 문화, 새로운 경험에 더 많이 노출됩니다.</p>
+<p class="mb-4">- 더 건강한 생활 방식(운동, 요리, 취미 활동)을 유지할 수 있습니다.</p>
+<p class="mb-4">- 스트레스가 적은 환경을 선택할 수 있습니다.</p>
+
+<h2 class="text-2xl font-bold mt-6 mb-3">원격 근무의 단점</h2>
+
+<h3 class="text-xl font-bold mt-5 mb-2">1. 고립감과 외로움</h3>
+<p class="mb-4">물리적 사무실의 인간 관계가 없어지면서 고립감을 느낄 수 있습니다.</p>
+
+<p class="mb-4">- 동료와의 자연스러운 대화와 관계 구축이 어려울 수 있습니다.</p>
+<p class="mb-4">- 새로운 장소에서 항상 새로운 인간관계를 형성해야 하는 부담이 있습니다.</p>
+<p class="mb-4">- 문화적, 언어적 차이로 인한 소통의 어려움이 있을 수 있습니다.</p>
+
+<h3 class="text-xl font-bold mt-5 mb-2">2. 업무와 개인 생활의 경계 모호</h3>
+<p class="mb-4">집과 직장의 경계가 없어지면서 균형을 유지하기 어려울 수 있습니다.</p>
+
+<p class="mb-4">- 항상 "업무 모드"에 있는 느낌으로 번아웃 위험이 있습니다.</p>
+<p class="mb-4">- 반대로, 업무 집중도가 떨어질 수 있는 환경적 유혹이 많습니다.</p>
+<p class="mb-4">- 시차로 인해 밤늦게 일해야 하는 경우가 많을 수 있습니다.</p>
+
+<h3 class="text-xl font-bold mt-5 mb-2">3. 실질적인 문제들</h3>
+<p class="mb-4">낭만적인 이미지 뒤에는 여러 현실적인 문제들이 숨어 있습니다.</p>
+
+<p class="mb-4">- 안정적인 인터넷 연결 확보의 어려움</p>
+<p class="mb-4">- 비자 및 법적 체류 문제</p>
+<p class="mb-4">- 건강 보험 및 의료 서비스 접근성</p>
+<p class="mb-4">- 세금 신고의 복잡성</p>
+<p class="mb-4">- 불안정한 수입 가능성</p>
+
+<h2 class="text-2xl font-bold mt-6 mb-3">효과적인 디지털 노마드 생활을 위한 팁</h2>
+
+<p class="mb-4">디지털 노마드 생활방식의 단점을 최소화하고 장점을 극대화하기 위한 몇 가지 전략을 소개합니다.</p>
+
+<h3 class="text-xl font-bold mt-5 mb-2">1. 루틴 확립하기</h3>
+<p class="mb-4">어디에 있든 일관된 일과를 유지하는 것이 중요합니다.</p>
+
+<p class="mb-4">- 규칙적인 작업 시간 설정</p>
+<p class="mb-4">- 명확한 작업 공간 구분</p>
+<p class="mb-4">- 일정한 수면 패턴 유지</p>
+
+<h3 class="text-xl font-bold mt-5 mb-2">2. 커뮤니티 찾기</h3>
+<p class="mb-4">고립감을 줄이기 위해 커뮤니티를 적극적으로 찾아보세요.</p>
+
+<p class="mb-4">- 코워킹 스페이스 활용하기</p>
+<p class="mb-4">- 디지털 노마드 모임 참여하기</p>
+<p class="mb-4">- 온라인 커뮤니티 활용하기</p>
+
+<h3 class="text-xl font-bold mt-5 mb-2">3. 사전 계획 세우기</h3>
+<p class="mb-4">유목 생활의 불확실성을 줄이기 위해 계획은 필수입니다.</p>
+
+<p class="mb-4">- 안정적인 인터넷 환경 미리 조사하기</p>
+<p class="mb-4">- 비자 및 법적 요구사항 확인하기</p>
+<p class="mb-4">- 재정 계획 세우기 (비상금 확보)</p>
+
+<h2 class="text-2xl font-bold mt-6 mb-3">결론</h2>
+
+<p class="mb-4">디지털 노마드 생활은 Instagram에서 보여지는 것처럼 완벽하지 않지만, 자유와 성장의 기회를 제공합니다. 이 생활방식이 자신에게 맞는지 신중히 고려하고, 장단점을 이해한 상태에서 결정을 내리는 것이 중요합니다. 또한, 처음부터 완전한 노마드로 전환하기보다는 단기 원격 근무부터 시작하여 점진적으로 시도해보는 것도 좋은 방법입니다.</p>
+<p class="mb-4">    </p>0:{"P":null,"b":"Hu7WoV6n8vMNUe2tWIgV-","p":"/my-next-app","c":["","blog","6"],"i":false,"f":[[["",{"children":["blog",{"children":[["id","6","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/my-next-app/_next/static/css/17671dde4152fd23.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"__variable_e71cf8 __variable_a8774f antialiased bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100","children":["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","nav",null,{"className":"bg-white dark:bg-gray-900 shadow-md","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4","children":["$","div",null,{"className":"flex justify-between h-16","children":[["$","div",null,{"className":"flex items-center","children":["$","$L2",null,{"href":"/","className":"flex-shrink-0 flex items-center","children":["$","span",null,{"className":"text-2xl font-bold text-indigo-600 dark:text-indigo-400","children":"MyBlog"}]}]}],["$","div",null,{"className":"flex items-center space-x-4","children":[["$","$L2",null,{"href":"/","className":"px-3 py-2 rounded-md text-sm font-medium text-gray-700 dark:text-gray-200 hover:text-indigo-600 dark:hover:text-indigo-400","children":"홈"}],["$","$L2",null,{"href":"/blog","className":"px-3 py-2 rounded-md text-sm font-medium text-gray-700 dark:text-gray-200 hover:text-indigo-600 dark:hover:text-indigo-400","children":"블로그"}],["$","$L2",null,{"href":"/about","className":"px-3 py-2 rounded-md text-sm font-medium text-gray-700 dark:text-gray-200 hover:text-indigo-600 dark:hover:text-indigo-400","children":"소개"}]]}]]}]}]}],["$","main",null,{"className":"flex-grow","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-[70vh] flex flex-col items-center justify-center p-8 text-center","children":[["$","h1",null,{"className":"text-5xl font-bold mb-6","children":"404"}],["$","h2",null,{"className":"text-2xl font-semibold mb-6","children":"페이지를 찾을 수 없습니다"}],["$","p",null,{"className":"text-lg text-gray-600 dark:text-gray-400 mb-8","children":"찾으시는 페이지가 존재하지 않거나 이동되었을 수 있습니다."}],["$","$L2",null,{"href":"/","className":"px-6 py-3 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-lg transition-colors","children":"홈으로 돌아가기"}]]}],"$undefined",[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-800","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","div",null,{"className":"flex flex-col md:flex-row justify-between items-center","children":[["$","div",null,{"className":"mb-4 md:mb-0","children":[["$","h2",null,{"className":"text-xl font-bold text-indigo-600 dark:text-indigo-400","children":"MyBlog"}],["$","p",null,{"className":"text-sm text-gray-600 dark:text-gray-400 mt-1","children":"나만의 생각과 경험을 공유하는 블로그"}]]}],["$","div",null,{"className":"flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-6","children":[["$","a",null,{"href":"#","className":"text-sm text-gray-600 dark:text-gray-400 hover:text-indigo-600 dark:hover:text-indigo-400","children":"블로그 정책"}],["$","a",null,{"href":"#","className":"text-sm text-gray-600 dark:text-gray-400 hover:text-indigo-600 dark:hover:text-indigo-400","children":"개인정보 처리방침"}],["$","a",null,{"href":"#","className":"text-sm text-gray-600 dark:text-gray-400 hover:text-indigo-600 dark:hover:text-indigo-400","children":"문의하기"}]]}]]}],["$","div",null,{"className":"mt-8 pt-6 border-t border-gray-200 dark:border-gray-800","children":["$","p",null,{"className":"text-center text-sm text-gray-600 dark:text-gray-400","children":["© ",2025," MyBlog. All rights reserved."]}]}]]}]}]]}]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","6","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-12","children":[["$","header",null,{"className":"mb-8","children":[["$","$L2",null,{"href":"/blog","className":"inline-flex items-center text-indigo-600 dark:text-indigo-400 mb-6 hover:underline","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","className":"h-5 w-5 mr-1","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 19l-7-7m0 0l7-7m-7 7h18"}]}],"블로그로 돌아가기"]}],["$","h1",null,{"className":"text-3xl sm:text-4xl md:text-5xl font-bold mb-6","children":"디지털 노마드 생활: 원격 근무의 장단점"}],["$","div",null,{"className":"flex items-center mb-6","children":[["$","div",null,{"className":"w-12 h-12 relative rounded-full overflow-hidden mr-4","children":["$","$L5",null,{"src":"https://randomuser.me/api/portraits/women/17.jpg","alt":"한노마드","fill":true,"style":{"objectFit":"cover"}}]}],["$","div",null,{"children":[["$","div",null,{"className":"font-semibold","children":"한노마드"}],["$","div",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":["2023년 11월 2일"," ·",["$","$L2",null,{"href":"/blog?category=라이프스타일","className":"ml-1 text-indigo-600 dark:text-indigo-400 hover:underline","children":"라이프스타일"}]]}]]}]]}]]}],["$","div",null,{"className":"relative h-[300px] sm:h-[400px] md:h-[500px] w-full mb-10 rounded-lg overflow-hidden","children":["$","$L5",null,{"src":"https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80","alt":"디지털 노마드 생활: 원격 근무의 장단점","fill":true,"style":{"objectFit":"cover"},"priority":true}]}],["$","div",null,{"className":"prose prose-lg dark:prose-invert max-w-none","dangerouslySetInnerHTML":{"__html":"$6"}}],["$","div",null,{"className":"mt-10 pt-6 border-t border-gray-200 dark:border-gray-800","children":[["$","h3",null,{"className":"text-lg font-semibold mb-3","children":"태그"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","원격근무",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-800 text-gray-800 dark:text-gray-200 rounded-full text-sm","children":"원격근무"}],["$","span","디지털노마드",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-800 text-gray-800 dark:text-gray-200 rounded-full text-sm","children":"디지털노마드"}],["$","span","프리랜서",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-800 text-gray-800 dark:text-gray-200 rounded-full text-sm","children":"프리랜서"}],["$","span","라이프스타일",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-800 text-gray-800 dark:text-gray-200 rounded-full text-sm","children":"라이프스타일"}]]}]]}],["$","div",null,{"className":"mt-10 pt-6 border-t border-gray-200 dark:border-gray-800","children":[["$","h3",null,{"className":"text-lg font-semibold mb-4","children":"작성자"}],["$","div",null,{"className":"flex items-center","children":[["$","div",null,{"className":"w-16 h-16 relative rounded-full overflow-hidden mr-6","children":["$","$L5",null,{"src":"https://randomuser.me/api/portraits/women/17.jpg","alt":"한노마드","fill":true,"style":{"objectFit":"cover"}}]}],["$","div",null,{"children":[["$","div",null,{"className":"font-semibold text-lg","children":"한노마드"}],["$","p",null,{"className":"text-gray-600 dark:text-gray-400","children":"디지털 노마드 3년차, 프리랜서 개발자"}]]}]]}]]}]]}],"$undefined",null,["$","$L7",null,{"children":["$L8","$L9",null]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","gsQn_RJJlaAK54xtDRQBs",{"children":[["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],["$","$Lc",null,{"children":"$Ld"}]]}],false]],"m":"$undefined","G":["$e","$undefined"],"s":false,"S":true}
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+9:null
+d:[["$","title","0",{"children":"디지털 노마드 생활: 원격 근무의 장단점 | My Blog"}],["$","meta","1",{"name":"description","content":"원격 근무와 디지털 노마드 생활의 현실적인 장단점을 경험을 바탕으로 솔직하게 공유합니다."}],["$","meta","2",{"property":"og:title","content":"디지털 노마드 생활: 원격 근무의 장단점"}],["$","meta","3",{"property":"og:description","content":"원격 근무와 디지털 노마드 생활의 현실적인 장단점을 경험을 바탕으로 솔직하게 공유합니다."}],["$","meta","4",{"property":"og:image","content":"https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"디지털 노마드 생활: 원격 근무의 장단점"}],["$","meta","7",{"name":"twitter:description","content":"원격 근무와 디지털 노마드 생활의 현실적인 장단점을 경험을 바탕으로 솔직하게 공유합니다."}],["$","meta","8",{"name":"twitter:image","content":"https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"}],["$","link","9",{"rel":"icon","href":"/my-next-app/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]

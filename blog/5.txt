@@ -1,0 +1,94 @@
+1:"$Sreact.fragment"
+2:I[6874,["874","static/chunks/874-db6e9370384cd204.js","63","static/chunks/63-5a018c5cd349b473.js","567","static/chunks/app/blog/%5Bid%5D/page-1f3ccb81220026c0.js"],""]
+3:I[7555,[],""]
+4:I[1295,[],""]
+5:I[3063,["874","static/chunks/874-db6e9370384cd204.js","63","static/chunks/63-5a018c5cd349b473.js","567","static/chunks/app/blog/%5Bid%5D/page-1f3ccb81220026c0.js"],"Image"]
+7:I[9665,[],"OutletBoundary"]
+a:I[9665,[],"ViewportBoundary"]
+c:I[9665,[],"MetadataBoundary"]
+e:I[6614,[],""]
+:HL["/my-next-app/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/my-next-app/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/my-next-app/_next/static/css/17671dde4152fd23.css","style"]
+6:T1376,
+<h1 class="text-3xl font-bold mt-8 mb-4">여행의 즐거움: 국내 숨은 여행지 추천</h1>
+
+<p class="mb-4">여행의 즐거움은 새로운 장소를 발견하고 경험하는 데서 옵니다. 유명 관광지도 좋지만, 아직 많이 알려지지 않은 국내의 숨은 명소들을 방문하는 것은 색다른 경험을 선사합니다. 이번 글에서는 한적하면서도 아름다운 국내 여행지를 소개합니다.</p>
+
+<h2 class="text-2xl font-bold mt-6 mb-3">산속의 평화: 숨은 산간 마을들</h2>
+
+<h3 class="text-xl font-bold mt-5 mb-2">1. 강원도 양양군 서림마을</h3>
+<p class="mb-4">서림마을은 설악산 동쪽 기슭에 자리한 아름다운 산간 마을입니다. 오래된 한옥과 아름다운 계곡이 어우러져 평화로운 분위기를 자아냅니다.</p>
+
+<p class="mb-4"><strong>추천 활동:</strong></p>
+<p class="mb-4">- 서림계곡에서 물놀이와 트레킹</p>
+<p class="mb-4">- 마을 내 한옥 체험 숙소 이용</p>
+<p class="mb-4">- 지역 특산물인 표고버섯과 산나물 요리 맛보기</p>
+
+<h3 class="text-xl font-bold mt-5 mb-2">2. 전라북도 진안군 마이산 자락의 운장산 마을</h3>
+<p class="mb-4">마이산의 독특한 지형과 운장산의 아름다운 풍경이 어우러진 이곳은 계절마다 다른 매력을 보여줍니다.</p>
+
+<p class="mb-4"><strong>추천 활동:</strong></p>
+<p class="mb-4">- 마이산 도립공원 탐방</p>
+<p class="mb-4">- 운일암 반일암 사찰 방문</p>
+<p class="mb-4">- 진안 홍삼 스파 체험</p>
+
+<h2 class="text-2xl font-bold mt-6 mb-3">바다를 품은 조용한 해안 마을</h2>
+
+<h3 class="text-xl font-bold mt-5 mb-2">1. 경상북도 영덕군 축산항</h3>
+<p class="mb-4">동해안의 작은 어항인 축산항은 상업화되지 않은 아름다운 해변과 신선한 해산물로 유명합니다.</p>
+
+<p class="mb-4"><strong>추천 활동:</strong></p>
+<p class="mb-4">- 축산항 일출 감상</p>
+<p class="mb-4">- 지역 어부들이 직접 잡은 신선한 해산물 맛보기</p>
+<p class="mb-4">- 근처 블루로드 트레킹</p>
+
+<h3 class="text-xl font-bold mt-5 mb-2">2. 전라남도 완도군 생일도</h3>
+<p class="mb-4">이름처럼 특별한 '생일'이라는 이름을 가진 이 섬은 푸른 바다와 아름다운 산책로로 유명합니다.</p>
+
+<p class="mb-4"><strong>추천 활동:</strong></p>
+<p class="mb-4">- 서편제 촬영지 방문</p>
+<p class="mb-4">- 생일도 둘레길 트레킹</p>
+<p class="mb-4">- 지역 특산물인 미역과 다시마로 만든 요리 체험</p>
+
+<h2 class="text-2xl font-bold mt-6 mb-3">역사를 간직한 고즈넉한 마을들</h2>
+
+<h3 class="text-xl font-bold mt-5 mb-2">1. 충청남도 아산시 외암민속마을</h3>
+<p class="mb-4">조선시대 양반 마을의 모습을 그대로 간직한 외암민속마을은 전통 가옥과 생활 방식을 체험할 수 있는 곳입니다.</p>
+
+<p class="mb-4"><strong>추천 활동:</strong></p>
+<p class="mb-4">- 전통 한옥 관람 및 체험</p>
+<p class="mb-4">- 전통 공예품 만들기 워크숍 참여</p>
+<p class="mb-4">- 주변 온천욕 즐기기</p>
+
+<h3 class="text-xl font-bold mt-5 mb-2">2. 경상북도 안동시 하회마을에서 조금 떨어진 분천리</h3>
+<p class="mb-4">유네스코 세계문화유산인 하회마을 근처에 위치한 분천리는 상대적으로 관광객이 적어 고즈넉한 분위기를 즐길 수 있습니다.</p>
+
+<p class="mb-4"><strong>추천 활동:</strong></p>
+<p class="mb-4">- 전통 가옥 산책</p>
+<p class="mb-4">- 안동 한지 공예 체험</p>
+<p class="mb-4">- 안동 소주와 헛제사밥 맛보기</p>
+
+<h2 class="text-2xl font-bold mt-6 mb-3">여행 계획 시 참고사항</h2>
+
+<h3 class="text-xl font-bold mt-5 mb-2">최적의 방문 시기</h3>
+<p class="mb-4">- 산간 마을: 여름(서늘함)과 가을(단풍)</p>
+<p class="mb-4">- 해안 마을: 봄(해변 걷기 좋음)과 가을(해산물 풍성)</p>
+<p class="mb-4">- 역사 마을: 사계절 모두 좋으나, 축제 기간 확인 필요</p>
+
+<h3 class="text-xl font-bold mt-5 mb-2">교통 팁</h3>
+<p class="mb-4">- 대부분 장소가 대중교통으로 접근하기 어려울 수 있으니 렌터카 이용 권장</p>
+<p class="mb-4">- 지역 버스 시간표 사전 확인 필요</p>
+
+<h3 class="text-xl font-bold mt-5 mb-2">숙박 옵션</h3>
+<p class="mb-4">- 각 지역의 민박 또는 펜션 이용 권장</p>
+<p class="mb-4">- 특히 전통 한옥 체험 숙소는 미리 예약 필요</p>
+
+<h2 class="text-2xl font-bold mt-6 mb-3">마무리</h2>
+
+<p class="mb-4">바쁜 일상에서 벗어나 조용히 자연과 역사를 느낄 수 있는 이런 숨은 여행지들은 특별한 추억을 선사할 것입니다. 유명 관광지의 번잡함을 피해 조금 더 진정한 여행의 의미를 찾고 싶다면, 이번 주말 소개해 드린 장소들을 방문해보는 것은 어떨까요?</p>
+<p class="mb-4">    </p>0:{"P":null,"b":"Hu7WoV6n8vMNUe2tWIgV-","p":"/my-next-app","c":["","blog","5"],"i":false,"f":[[["",{"children":["blog",{"children":[["id","5","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/my-next-app/_next/static/css/17671dde4152fd23.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"__variable_e71cf8 __variable_a8774f antialiased bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100","children":["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","nav",null,{"className":"bg-white dark:bg-gray-900 shadow-md","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4","children":["$","div",null,{"className":"flex justify-between h-16","children":[["$","div",null,{"className":"flex items-center","children":["$","$L2",null,{"href":"/","className":"flex-shrink-0 flex items-center","children":["$","span",null,{"className":"text-2xl font-bold text-indigo-600 dark:text-indigo-400","children":"MyBlog"}]}]}],["$","div",null,{"className":"flex items-center space-x-4","children":[["$","$L2",null,{"href":"/","className":"px-3 py-2 rounded-md text-sm font-medium text-gray-700 dark:text-gray-200 hover:text-indigo-600 dark:hover:text-indigo-400","children":"홈"}],["$","$L2",null,{"href":"/blog","className":"px-3 py-2 rounded-md text-sm font-medium text-gray-700 dark:text-gray-200 hover:text-indigo-600 dark:hover:text-indigo-400","children":"블로그"}],["$","$L2",null,{"href":"/about","className":"px-3 py-2 rounded-md text-sm font-medium text-gray-700 dark:text-gray-200 hover:text-indigo-600 dark:hover:text-indigo-400","children":"소개"}]]}]]}]}]}],["$","main",null,{"className":"flex-grow","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-[70vh] flex flex-col items-center justify-center p-8 text-center","children":[["$","h1",null,{"className":"text-5xl font-bold mb-6","children":"404"}],["$","h2",null,{"className":"text-2xl font-semibold mb-6","children":"페이지를 찾을 수 없습니다"}],["$","p",null,{"className":"text-lg text-gray-600 dark:text-gray-400 mb-8","children":"찾으시는 페이지가 존재하지 않거나 이동되었을 수 있습니다."}],["$","$L2",null,{"href":"/","className":"px-6 py-3 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-lg transition-colors","children":"홈으로 돌아가기"}]]}],"$undefined",[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-800","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","div",null,{"className":"flex flex-col md:flex-row justify-between items-center","children":[["$","div",null,{"className":"mb-4 md:mb-0","children":[["$","h2",null,{"className":"text-xl font-bold text-indigo-600 dark:text-indigo-400","children":"MyBlog"}],["$","p",null,{"className":"text-sm text-gray-600 dark:text-gray-400 mt-1","children":"나만의 생각과 경험을 공유하는 블로그"}]]}],["$","div",null,{"className":"flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-6","children":[["$","a",null,{"href":"#","className":"text-sm text-gray-600 dark:text-gray-400 hover:text-indigo-600 dark:hover:text-indigo-400","children":"블로그 정책"}],["$","a",null,{"href":"#","className":"text-sm text-gray-600 dark:text-gray-400 hover:text-indigo-600 dark:hover:text-indigo-400","children":"개인정보 처리방침"}],["$","a",null,{"href":"#","className":"text-sm text-gray-600 dark:text-gray-400 hover:text-indigo-600 dark:hover:text-indigo-400","children":"문의하기"}]]}]]}],["$","div",null,{"className":"mt-8 pt-6 border-t border-gray-200 dark:border-gray-800","children":["$","p",null,{"className":"text-center text-sm text-gray-600 dark:text-gray-400","children":["© ",2025," MyBlog. All rights reserved."]}]}]]}]}]]}]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","5","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-12","children":[["$","header",null,{"className":"mb-8","children":[["$","$L2",null,{"href":"/blog","className":"inline-flex items-center text-indigo-600 dark:text-indigo-400 mb-6 hover:underline","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","className":"h-5 w-5 mr-1","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 19l-7-7m0 0l7-7m-7 7h18"}]}],"블로그로 돌아가기"]}],["$","h1",null,{"className":"text-3xl sm:text-4xl md:text-5xl font-bold mb-6","children":"여행의 즐거움: 국내 숨은 여행지 추천"}],["$","div",null,{"className":"flex items-center mb-6","children":[["$","div",null,{"className":"w-12 h-12 relative rounded-full overflow-hidden mr-4","children":["$","$L5",null,{"src":"https://randomuser.me/api/portraits/men/52.jpg","alt":"정여행","fill":true,"style":{"objectFit":"cover"}}]}],["$","div",null,{"children":[["$","div",null,{"className":"font-semibold","children":"정여행"}],["$","div",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":["2023년 10월 18일"," ·",["$","$L2",null,{"href":"/blog?category=여행","className":"ml-1 text-indigo-600 dark:text-indigo-400 hover:underline","children":"여행"}]]}]]}]]}]]}],["$","div",null,{"className":"relative h-[300px] sm:h-[400px] md:h-[500px] w-full mb-10 rounded-lg overflow-hidden","children":["$","$L5",null,{"src":"https://images.unsplash.com/photo-1682686581740-2c5f76eb86d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80","alt":"여행의 즐거움: 국내 숨은 여행지 추천","fill":true,"style":{"objectFit":"cover"},"priority":true}]}],["$","div",null,{"className":"prose prose-lg dark:prose-invert max-w-none","dangerouslySetInnerHTML":{"__html":"$6"}}],["$","div",null,{"className":"mt-10 pt-6 border-t border-gray-200 dark:border-gray-800","children":[["$","h3",null,{"className":"text-lg font-semibold mb-3","children":"태그"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","여행",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-800 text-gray-800 dark:text-gray-200 rounded-full text-sm","children":"여행"}],["$","span","국내여행",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-800 text-gray-800 dark:text-gray-200 rounded-full text-sm","children":"국내여행"}],["$","span","힐링",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-800 text-gray-800 dark:text-gray-200 rounded-full text-sm","children":"힐링"}],["$","span","문화체험",{"className":"px-3 py-1 bg-gray-200 dark:bg-gray-800 text-gray-800 dark:text-gray-200 rounded-full text-sm","children":"문화체험"}]]}]]}],["$","div",null,{"className":"mt-10 pt-6 border-t border-gray-200 dark:border-gray-800","children":[["$","h3",null,{"className":"text-lg font-semibold mb-4","children":"작성자"}],["$","div",null,{"className":"flex items-center","children":[["$","div",null,{"className":"w-16 h-16 relative rounded-full overflow-hidden mr-6","children":["$","$L5",null,{"src":"https://randomuser.me/api/portraits/men/52.jpg","alt":"정여행","fill":true,"style":{"objectFit":"cover"}}]}],["$","div",null,{"children":[["$","div",null,{"className":"font-semibold text-lg","children":"정여행"}],["$","p",null,{"className":"text-gray-600 dark:text-gray-400","children":"여행 작가, 사진작가"}]]}]]}]]}]]}],"$undefined",null,["$","$L7",null,{"children":["$L8","$L9",null]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","x0amOryPEcKan-kMSr8cc",{"children":[["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],["$","$Lc",null,{"children":"$Ld"}]]}],false]],"m":"$undefined","G":["$e","$undefined"],"s":false,"S":true}
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+9:null
+d:[["$","title","0",{"children":"여행의 즐거움: 국내 숨은 여행지 추천 | My Blog"}],["$","meta","1",{"name":"description","content":"번잡한 관광지를 벗어나 조용히 즐길 수 있는 국내 숨은 명소들을 소개합니다."}],["$","meta","2",{"property":"og:title","content":"여행의 즐거움: 국내 숨은 여행지 추천"}],["$","meta","3",{"property":"og:description","content":"번잡한 관광지를 벗어나 조용히 즐길 수 있는 국내 숨은 명소들을 소개합니다."}],["$","meta","4",{"property":"og:image","content":"https://images.unsplash.com/photo-1682686581740-2c5f76eb86d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"여행의 즐거움: 국내 숨은 여행지 추천"}],["$","meta","7",{"name":"twitter:description","content":"번잡한 관광지를 벗어나 조용히 즐길 수 있는 국내 숨은 명소들을 소개합니다."}],["$","meta","8",{"name":"twitter:image","content":"https://images.unsplash.com/photo-1682686581740-2c5f76eb86d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"}],["$","link","9",{"rel":"icon","href":"/my-next-app/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
